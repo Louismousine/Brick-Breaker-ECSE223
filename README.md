@@ -32,5 +32,5 @@ git clone https:://github.com/Louismousine/Brick-Breaker-ECSE223.git
 ### Authors
 
 * [Louis Barrette-Vanasse](https://github.com/Louismousine) 
-* [William Bouchard] (https://github.com/willbouch) 
-* [Emmanuelle Coutu-Nadeau] (https://github.com/emmacona)
+* [William Bouchard](https://github.com/willbouch) 
+* [Emmanuelle Coutu-Nadeau](https://github.com/emmacona)
